@@ -3,4 +3,4 @@ A simple semi-scientific calculator
 
 My first project with java...
 
-Swing package is used for GUI
+Swing libraries are used for GUI
