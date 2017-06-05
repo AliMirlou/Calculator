@@ -1,4 +1,4 @@
-package calc;
+package calculator;
 
 import java.awt.Color;
 import java.awt.Container;
